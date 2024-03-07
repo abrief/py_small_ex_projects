@@ -1,3 +1,7 @@
+/* 사용자가 입력하고, 입력된 문장 중
+/* 가장 긴 단어를 출력하기
+
+
 def longest_word():
     longest_so_far = ''
     for word in words:
