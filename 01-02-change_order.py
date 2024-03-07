@@ -1,3 +1,5 @@
+/* Chnge order from given list
+
 def swap(data, a, b):
     temp = data[a]
     data[a] = data[b]
